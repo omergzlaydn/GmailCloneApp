@@ -16,4 +16,4 @@ https://gmail-clonnee.netlify.app/
 
 ## `Screen`
 
-![](assets\images\gmail.gif)
+![](https://github.com/omergzlaydn/GmailCloneApp/blob/main/assets/images/gmail.gif)

@@ -370,7 +370,7 @@ aside img {
 }
 .dark-mode section {
   display: flex;
-  background: #d0ebff;
+  background: #3c3e41;
 }
 .dark-mode section .create-mail {
   background: white;
@@ -379,7 +379,7 @@ aside img {
   background-color: white;
 }
 .dark-mode header {
-  background-color: #d0ebff;
+  background-color: #808589;
   color: black;
   display: flex;
 }

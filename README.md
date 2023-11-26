@@ -1,19 +1,24 @@
-# Gmail Clone 
+# GmailClone
 
-## What i practice
+## Uygulama Hakkında
 
-- Used HTML SCSS JS for Design
-- Send and delete email
-- Starred emails in starred section
-- Saves in Local Storage
-- Switch to dark-mode
-- Full Responsive
+Bu proje, HTML, SCSS ve JavaScript kullanılarak oluşturulan bir Gmail benzeri bir e-posta uygulamasını içermektedir. Aşağıda uygulamanın bazı özellikleri ve bu proje üzerinde yapılan pratikler bulunmaktadır.
 
+## Özellikler
 
-## `URL`
+- HTML, SCSS ve JS kullanılarak tasarlandı.
+- E-posta gönderme ve silme özellikleri bulunmaktadır.
+- Yıldızlı e-postalar "Starred" bölümünde görüntülenebilir.
+- Veriler, Local Storage kullanılarak yerel olarak saklanmaktadır.
+- Dark mode özelliği bulunmaktadır.
+- Tamamen duyarlıdır ve farklı ekran boyutlarına uyum sağlar.
 
-https://gmail-clonnee.netlify.app/
 
 ## `Screen`
 
 ![](https://github.com/omergzlaydn/GmailCloneApp/blob/main/assets/images/gmail.gif)
+
+
+## `URL`
+
+https://glittery-rolypoly-9fbc8e.netlify.app/?
